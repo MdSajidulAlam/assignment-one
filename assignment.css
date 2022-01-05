@@ -1,0 +1,76 @@
+body{
+    font-family: 'EB Garamond', serif;
+    width: 80%;
+    height: 80%;
+}
+.header-one{
+    font-size: 30px;
+    border-left: 5px solid rgb(245, 75, 8);
+    border-radius: 5px;
+}
+h1{
+    margin-left: 15px;
+}.mission-2022{
+    color: lightsalmon;
+}
+.first-paragraph{
+    width: 50%;
+    margin: 0 auto;
+    text-align: end;
+    font-size: 10px;
+    justify-content: flex-start;
+}
+.button-one{
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 5px;
+  background-color: rgb(241, 92, 92);
+  padding: 12px 30px;
+}
+.first-part{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+.text-one{
+    padding-top: 80px;
+    padding-right: 50px;
+}
+.person-two{
+    width: 400px;
+}
+.header-two{
+    text-align: center;
+}
+.second-part{
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+.second-part img{
+    width: 50%;
+}
+.mission{
+    background-color: rgb(173, 146, 175);
+    border-radius: 20px;
+}
+.vision{
+    background-color: wheat;
+    border-radius: 20px;
+}
+.goals{
+    background-color: violet;
+    border-radius: 20px;
+}
+.third-part{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+.image-two{
+padding: 100px;
+}
+
