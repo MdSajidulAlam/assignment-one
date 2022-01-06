@@ -1,7 +1,5 @@
 body{
     font-family: 'EB Garamond', serif;
-    width: 80%;
-    height: 80%;
 }
 .header-one{
     font-size: 30px;
@@ -10,7 +8,13 @@ body{
 }
 h1{
     margin-left: 15px;
-}.mission-2022{
+    line-height: 43px;
+}
+.text-one h3{
+    width: 59%;
+}
+
+.mission-2022{
     color: lightsalmon;
 }
 .first-paragraph{
@@ -27,9 +31,12 @@ h1{
   background-color: rgb(241, 92, 92);
   padding: 12px 30px;
 }
+.header-two{
+    margin-top: 50px;
+}
 .first-part{
     display: flex;
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
     justify-content: space-around;
 }
@@ -39,15 +46,16 @@ h1{
 }
 .person-two{
     width: 400px;
+    margin-right: 239px;
 }
 .header-two{
     text-align: center;
 }
 .second-part{
     display: flex;
-    width: 1000px;
     margin: 0 auto;
-    justify-content: space-evenly;
+    padding: 0px 60px;
+    justify-content: space-between;
 }
 .second-part img{
     width: 50%;
@@ -55,22 +63,73 @@ h1{
 .mission{
     background-color: rgb(173, 146, 175);
     border-radius: 20px;
+    width: 30%;
+}
+
+.mission-content {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.mission-content p{
+    width: 80%;
 }
 .vision{
     background-color: wheat;
     border-radius: 20px;
+    margin: 0px 20px;
+    width: 30%;
+}
+.vision-contant{
+    padding-left: 10px;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.vision-contant p{
+    width: 80%;
+    
 }
 .goals{
     background-color: violet;
     border-radius: 20px;
+    width: 30%;
+}
+.goal-contant{
+    padding-left: 10px;
+    margin-top: -30px;
+    font-size: 20px;
 }
 .third-part{
     display: flex;
     width: 80%;
     margin: 0 auto;
+    margin-top: 60px;
     justify-content: space-around;
+    margin-top: 35px;
+    margin-left: 37px;
 }
-.image-two{
-padding: 100px;
+.third-part img{
+    width: 50%;
+    padding: 20px;
 }
 
+.image-two img {
+    width: 355px;
+}
+.button-two{
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 5px;
+  background-color: rgb(241, 92, 92);
+  padding: 12px 30px;
+}
+.text-two{
+    margin-left: 35px;
+}
+.text-two h3{
+    width: 70%;
+}
+.header-three{
+    font-size: 26px;
+    margin-left: 20px;
+}
